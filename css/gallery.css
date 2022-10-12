@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+.thumb-bar {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.thumb-bar li {
+    display: inline-block;
+}
+
+figcaption {
+    margin-top: 10px;
+}
